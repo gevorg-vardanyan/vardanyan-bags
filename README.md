@@ -5,7 +5,7 @@ p h o t o r a m a
 
 ----------
 
----> [DEMO](https://sunbliss.github.io/photorama/ "DEMO")  <---
+---> [DEMO](https://sunbliss.github.io/photorama/ "DEMO") 
 
 ----------
 
